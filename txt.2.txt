@@ -1,0 +1,11 @@
+Basándome solo en lo que has compartido en esta conversación, tengo estos datos sobre ti:
+
+Nombre visible en GitHub: WilsonTaht
+Nombre que aparece debajo: nube wiltagr
+Usuario de GitHub: wiltagr-cloud
+Perfil de GitHub: github.com/wiltagr-cloud
+Repositorio que aparece en tu perfil: SistemaGestiónVeterinaria
+Otro repositorio visible: KRAKEDEV
+Lenguaje que aparece en el repositorio mostrado: Java
+Estás trabajando con JavaScript y Canvas, específicamente dibujando rectángulos.
+Estás usando Windows y Google Chrome en la captura.
